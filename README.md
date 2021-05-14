@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankaj300-pj
-- 👀 I’m interested in creating various web apps.
+- 👀 I’m interested in dealing with various web apps.
 - 🌱 I’m currently learning python ,java,etc.
 - 💞️ I’m looking to collaborate on multiple ecommerce projects.
 - 📫 mail me on pankajjoshi300.p@gmal.com
